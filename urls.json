@@ -1,4 +1,14 @@
-{
+[
+  {
+      "name": "Jorge Benavente",
+      "url": "https://github.com/NotJorge/notjorge.github.io"
+  },
+  {
+      "name": "Binwei",
+      "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git"
+  },
+  {
     "name": "Miguel Zanotto",
     "url": "https://github.com/MiguelZanottto/Curriculum_MiguelZanotto.git"
-}
+  }
+]
