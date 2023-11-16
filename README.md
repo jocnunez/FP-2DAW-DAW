@@ -9,6 +9,6 @@ Haz un fork de este repositorio y actualiza el fichero urls.json añadiendo al f
 ```json
 {
   "name": "tu nombre",
-  "url": "la url a tu proyecto de githab"
+  "url": "la url a tu proyecto de github"
 }
 ```
