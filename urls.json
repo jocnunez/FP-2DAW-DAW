@@ -37,6 +37,7 @@
     },
     {
         "name": "Daniel Garrido Muros",
-        "url": "https://github.com/Danniellgm03/DesplieguePract.git"
+        "url": "https://github.com/Danniellgm03/DesplieguePract.git",
+        "docker": "https://hub.docker.com/r/daniellgm03/img-nginx"
     }
 ]
