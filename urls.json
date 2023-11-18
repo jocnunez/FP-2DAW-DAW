@@ -25,7 +25,8 @@
     },
     {
         "name": "Joselyn Obando",
-        "url": "https://github.com/JoselynO/HTML-CURRICULUM-DESPLIEGUE.git"
+        "url": "https://github.com/JoselynO/HTML-CURRICULUM-DESPLIEGUE.git",
+        "docker": "https://hub.docker.com/layers/joselynobando/cv_joselyn/latest/images/sha256-b596f70ed84b016f6a1f54e1f15371f9636a7c1477f8c4ab9f20fe9937ee6772?context=explore"
     },
     {
         "name": "Laura",
