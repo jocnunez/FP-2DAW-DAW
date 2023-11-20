@@ -36,6 +36,11 @@
         "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git"
     },
     {
+        "name": "Ángel Mateo Rodríguez",
+        "url": "https://github.com/Madirexland/webdespliegue.git",
+        "docker": "https://hub.docker.com/r/madirex/nginx-static"
+    },
+    {
         "name": "Daniel Garrido Muros",
         "url": "https://github.com/Danniellgm03/DesplieguePract.git",
         "docker": "https://hub.docker.com/r/daniellgm03/img-nginx"
