@@ -1,27 +1,54 @@
 [
-  {
-    "name": "Jorge Benavente",
-    "url": "https://github.com/NotJorge/notjorge.github.io"
-  },
-  {
-    "name": "Binwei",
-    "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git"
-  },
-  {
-    "name": "Miguel Zanotto",
-    "url": "https://github.com/MiguelZanottto/Curriculum_MiguelZanotto.git"
-  },
-  {
-    "name": "David J",
-    "url": "https://github.com/velcas/velcas.github.io.git"
-  },
-  {
-    "name": "Jaime Medina Méndez",
-    "url": "https://github.com/jaimemen897/jaimemen897.github.io.git"
-  },
-  {
-    "name": "Eva Gomez",
-    "url": "https://github.com/evagmezz/evagmezz.github.io.git",
-    "docker": "https://hub.docker.com/layers/evagmezz/evagmezz25/latest/images/sha256-706fdf40df13439ceee4e48094a6e83b5ad1ad4423570256fe95e99f38887621?context=repo"
-  }
+    {
+        "name": "Jorge Benavente",
+        "url": "https://github.com/NotJorge/notjorge.github.io"
+    },
+    {
+        "name": "Binwei",
+        "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git"
+    },
+    {
+        "name": "Miguel Zanotto",
+        "url": "https://github.com/MiguelZanottto/Curriculum_MiguelZanotto.git"
+    },
+    {
+        "name": "David J",
+        "url": "https://github.com/velcas/velcas.github.io.git"
+    },
+    {
+        "name": "Jaime Medina Méndez",
+        "url": "https://github.com/jaimemen897/jaimemen897.github.io.git",
+        "docker": "https://hub.docker.com/layers/jaimemen/personal_page/latest/images/sha256-48e4c69ed8ee14329485d0e5e23edd61f423ce92367430d4417a553c9e09b49c?context=repo"
+    },
+    {
+        "name": "Eva Gomez",
+        "url": "https://github.com/evagmezz/evagmezz.github.io.git",
+        "docker": "https://hub.docker.com/layers/evagmezz/evagmezz25/latest/images/sha256-706fdf40df13439ceee4e48094a6e83b5ad1ad4423570256fe95e99f38887621?context=repo"
+    },
+    {
+        "name": "Joselyn Obando",
+        "url": "https://github.com/JoselynO/HTML-CURRICULUM-DESPLIEGUE.git"
+    },
+    {
+        "name": "Laura",
+        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git"
+    },
+    {
+        "name": "Jorge Alonso Cruz",
+        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git"
+    },
+    {
+        "name": "Ángel Mateo Rodríguez",
+        "url": "https://github.com/Madirexland/webdespliegue.git",
+        "docker": "https://hub.docker.com/r/madirex/nginx-static"
+    },
+    {
+        "name": "Daniel Garrido Muros",
+        "url": "https://github.com/Danniellgm03/DesplieguePract.git",
+        "docker": "https://hub.docker.com/r/daniellgm03/img-nginx"
+    },
+    {
+        "name": "David Torralba",
+        "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
+    }
 ]
