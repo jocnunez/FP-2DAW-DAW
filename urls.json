@@ -19,5 +19,35 @@
         "name": "Jaime Medina Méndez",
         "url": "https://github.com/jaimemen897/jaimemen897.github.io.git",
         "docker": "https://hub.docker.com/layers/jaimemen/personal_page/latest/images/sha256-48e4c69ed8ee14329485d0e5e23edd61f423ce92367430d4417a553c9e09b49c?context=repo"
+    },
+    {
+        "name": "Eva Gomez",
+        "url": "https://github.com/evagmezz/evagmezz.github.io.git"
+    },
+    {
+        "name": "Joselyn Obando",
+        "url": "https://github.com/JoselynO/HTML-CURRICULUM-DESPLIEGUE.git"
+    },
+    {
+        "name": "Laura",
+        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git"
+    },
+    {
+        "name": "Jorge Alonso Cruz",
+        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git"
+    },
+    {
+        "name": "Ángel Mateo Rodríguez",
+        "url": "https://github.com/Madirexland/webdespliegue.git",
+        "docker": "https://hub.docker.com/r/madirex/nginx-static"
+    },
+    {
+        "name": "Daniel Garrido Muros",
+        "url": "https://github.com/Danniellgm03/DesplieguePract.git",
+        "docker": "https://hub.docker.com/r/daniellgm03/img-nginx"
+    },
+    {
+        "name": "David Torralba",
+        "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
     }
 ]
