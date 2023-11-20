@@ -37,6 +37,7 @@
     },
     {
         "name": "Ángel Mateo Rodríguez",
-        "url": "https://github.com/Madirexland/webdespliegue.git"
+        "url": "https://github.com/Madirexland/webdespliegue.git",
+        "docker": "https://hub.docker.com/r/madirex/nginx-static"
     }
 ]
