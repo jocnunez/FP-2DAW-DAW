@@ -39,5 +39,9 @@
         "name": "Daniel Garrido Muros",
         "url": "https://github.com/Danniellgm03/DesplieguePract.git",
         "docker": "https://hub.docker.com/r/daniellgm03/img-nginx"
+    },
+    {
+        "name": "David Torralba",
+        "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
     }
 ]
