@@ -52,5 +52,11 @@
     {
         "name": "David Torralba",
         "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
+    },
+    {
+        "name": "Miguel Vicario Rubio",
+        "url": "https://github.com/miviru/Web-Personal.git",
+        "docker":"https://hub.docker.com/r/miviru/imagenwebpersonal"
     }
+
 ]
