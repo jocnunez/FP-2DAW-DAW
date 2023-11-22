@@ -53,4 +53,9 @@
         "name": "David Torralba",
         "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
     }
+    {
+        "name": "Ruben Fernandez",
+        "url" :"https://github.com/Rubenoide03/FP-2DAW-DAW.git",
+        "docker" :"https://hub.docker.com/repository/docker/rubenoide03/prueba_daw_ruben/general"
+    }
 ]
