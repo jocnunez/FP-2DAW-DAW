@@ -37,6 +37,10 @@
         "docker": "https://hub.docker.com/layers/joselynobando/cv_joselyn/latest/images/sha256-b596f70ed84b016f6a1f54e1f15371f9636a7c1477f8c4ab9f20fe9937ee6772?context=explore"
     },
     {
+        "name":"Oscar Encabo Nieto",
+        "url":"https://github.com/Diokar017/Ejercicio1Despliegue.git"    
+    },
+    {
         "name": "Tomas Vaquerin",
         "url": "https://github.com/TomasVaquerin/DespliegeWeb.git"
     },
