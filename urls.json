@@ -34,6 +34,10 @@
         "docker": "https://hub.docker.com/layers/joselynobando/cv_joselyn/latest/images/sha256-b596f70ed84b016f6a1f54e1f15371f9636a7c1477f8c4ab9f20fe9937ee6772?context=explore"
     },
     {
+        "name": "Tomas Vaquerin",
+        "url": "https://github.com/TomasVaquerin/DespliegeWeb.git"
+    },
+    {
         "name": "Laura",
         "url": "https://github.com/LauraGarridoArredondo/Curriculum.git",
         "docker":"https://hub.docker.com/repository/docker/lauragarrido/curriculum_class_repo/general"
@@ -81,5 +85,5 @@
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
         "docker": ""
-    }
+    }    
 ]
