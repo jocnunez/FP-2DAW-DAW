@@ -36,6 +36,7 @@
     {
         "name": "Tomas Vaquerin",
         "url": "https://github.com/TomasVaquerin/DespliegeWeb.git"
+        "docker": "https://hub.docker.com/repository/docker/tomasvj/nginxtomas"
     },
     {
         "name": "Laura",
