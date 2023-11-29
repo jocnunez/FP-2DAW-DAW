@@ -65,4 +65,9 @@
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
         "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
     }
+    ,
+    {
+        "name": "Kevin Bermudez",
+        "url": "https://github.com/kevinbermudes/Practica1.git"
+    }
 ]
