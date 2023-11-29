@@ -34,7 +34,8 @@
     },
     {
         "name": "Laura",
-        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git"
+        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git",
+        "docker":"https://hub.docker.com/repository/docker/lauragarrido/curriculum_class_repo/general"
     },
     {
         "name": "Jorge Alonso Cruz",
@@ -65,6 +66,19 @@
         "name": "Mohamed El Kasmi El Kaderi",
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
         "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
-
+    },
+    {
+        "name": "Diego Torres",
+        "url": "https://github.com/DiegoTorresMijarra/DespliegueCurriculum.git",
+        "docker":"https://github.com/DiegoTorresMijarra/DockerHolaMundo.git"    
+    },
+    {
+        "name": "Kevin Bermudez",
+        "url": "https://github.com/kevinbermudes/Practica1.git"
+    },
+    {
+        "name": "Joe Brandon Carrillo Lozano",
+        "url": "https://github.com/JBrandonCL/DespliegeD.git",
+        "docker": ""
     }
 ]
