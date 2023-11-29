@@ -1,11 +1,13 @@
 [
     {
         "name": "Jorge Benavente",
-        "url": "https://github.com/NotJorge/notjorge.github.io"
+        "url": "https://github.com/NotJorge/notjorge.github.io",
+        "docker": "https://hub.docker.com/repository/docker/jorgebenavente/mi-imagen-nginx/general"
     },
     {
         "name": "Binwei",
-        "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git"
+        "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git",
+        "docker": "https://hub.docker.com/r/binweiwang/nginx"
     },
     {
         "name": "Miguel Zanotto",
@@ -32,12 +34,18 @@
         "docker": "https://hub.docker.com/layers/joselynobando/cv_joselyn/latest/images/sha256-b596f70ed84b016f6a1f54e1f15371f9636a7c1477f8c4ab9f20fe9937ee6772?context=explore"
     },
     {
+        "name": "Tomas Vaquerin",
+        "url": "https://github.com/TomasVaquerin/DespliegeWeb.git"
+    },
+    {
         "name": "Laura",
-        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git"
+        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git",
+        "docker":"https://hub.docker.com/repository/docker/lauragarrido/curriculum_class_repo/general"
     },
     {
         "name": "Jorge Alonso Cruz",
-        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git"
+        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git",
+        "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general"
     },
     {
         "name": "Ángel Mateo Rodríguez",
@@ -50,12 +58,37 @@
         "docker": "https://hub.docker.com/r/daniellgm03/img-nginx"
     },
     {
-        "name": "David Torralba",
-        "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
-    }
-    {
         "name": "Ruben Fernandez",
         "url" :"https://github.com/Rubenoide03/FP-2DAW-DAW.git",
         "docker" :"https://hub.docker.com/repository/docker/rubenoide03/prueba_daw_ruben/general"
+    },
+    {
+        "name": "David Torralba",
+        "url": "https://github.com/david2o3/WebPersonal.git",
+        "docker": "https://hub.docker.com/r/david2o3/nginx-web"
+    },
+    {
+        "name": "Miguel Vicario Rubio",
+        "url": "https://github.com/miviru/Web-Personal.git",
+        "docker":"https://hub.docker.com/r/miviru/imagenwebpersonal"
+    },
+    {
+        "name": "Mohamed El Kasmi El Kaderi",
+        "url": "https://github.com/Mohaek10/MiProyectoWeb",
+        "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
+    },
+    {
+        "name": "Diego Torres",
+        "url": "https://github.com/DiegoTorresMijarra/DespliegueCurriculum.git",
+        "docker":"https://github.com/DiegoTorresMijarra/DockerHolaMundo.git"    
+    },
+    {
+        "name": "Kevin Bermudez",
+        "url": "https://github.com/kevinbermudes/Practica1.git"
+    },
+    {
+        "name": "Joe Brandon Carrillo Lozano",
+        "url": "https://github.com/JBrandonCL/DespliegeD.git",
+        "docker": ""
     }
 ]
