@@ -64,6 +64,11 @@
         "name": "Mohamed El Kasmi El Kaderi",
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
         "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
+    },
+        {
+        "name": "Diego Torres",
+        "url": "https://github.com/DiegoTorresMijarra/DespliegueCurriculum.git",
+        "docker":"https://github.com/DiegoTorresMijarra/DockerHolaMundo.git"    
     }
     ,
     {
