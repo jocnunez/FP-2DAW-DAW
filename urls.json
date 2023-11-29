@@ -11,7 +11,8 @@
 [
     {
         "name": "Jorge Benavente",
-        "url": "https://github.com/NotJorge/notjorge.github.io"
+        "url": "https://github.com/NotJorge/notjorge.github.io",
+        "docker": "https://hub.docker.com/repository/docker/jorgebenavente/mi-imagen-nginx/general"
     },
     {
         "name": "Binwei",
@@ -47,7 +48,8 @@
     },
     {
         "name": "Jorge Alonso Cruz",
-        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git"
+        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git",
+        "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general"
     },
     {
         "name": "Ángel Mateo Rodríguez",
@@ -62,6 +64,16 @@
     {
         "name": "David Torralba",
         "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
+    },
+    {
+        "name": "Miguel Vicario Rubio",
+        "url": "https://github.com/miviru/Web-Personal.git",
+        "docker":"https://hub.docker.com/r/miviru/imagenwebpersonal"
+    },
+    {
+        "name": "Mohamed El Kasmi El Kaderi",
+        "url": "https://github.com/Mohaek10/MiProyectoWeb",
+        "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
     }
     {
         "name": "Joe Brandon Carrillo Lozano",
