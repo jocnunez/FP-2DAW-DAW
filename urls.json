@@ -59,7 +59,8 @@
     },
     {
         "name": "David Torralba",
-        "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
+        "url": "https://github.com/david2o3/WebPersonal.git",
+        "docker": "https://hub.docker.com/r/david2o3/nginx-web"
     },
     {
         "name": "Miguel Vicario Rubio",
@@ -71,16 +72,15 @@
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
         "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
     },
-        {
+    {
         "name": "Diego Torres",
         "url": "https://github.com/DiegoTorresMijarra/DespliegueCurriculum.git",
         "docker":"https://github.com/DiegoTorresMijarra/DockerHolaMundo.git"    
-    }
-    ,
+    },
     {
         "name": "Kevin Bermudez",
         "url": "https://github.com/kevinbermudes/Practica1.git"
-    }
+    },
     {
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
