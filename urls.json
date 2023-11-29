@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+{
+    "name": "Jose N",
+    "url": "https://github.com/jocnunez/FP-2DAW-DAW.git"
+}
+{
+    "name": "Joe Brando Carrillo Lozano",
+    "url": "https://github.com/JBrandonCL/FP-2DAW-DAW.git"
+}
+=======
 [
     {
         "name": "Jorge Benavente",
@@ -65,4 +75,9 @@
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
         "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
     }
+    {
+        "name": "Joe Brandon Carrillo Lozano",
+        "url": "https://github.com/JBrandonCL/DespliegeD.git"
+    }
 ]
+>>>>>>> 3ed7a1198a65690bf47baf18a1b5a97ad6299f05
