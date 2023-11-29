@@ -65,4 +65,9 @@
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
         "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
     }
+    {
+        "name": "Joe Brandon Carrillo Lozano",
+        "url": "https://github.com/JBrandonCL/DespliegeD.git",
+        "docker": ""
+    }
 ]
