@@ -37,7 +37,8 @@
     },
     {
         "name": "Jorge Alonso Cruz",
-        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git"
+        "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git",
+        "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general"
     },
     {
         "name": "Ángel Mateo Rodríguez",
