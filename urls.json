@@ -34,7 +34,8 @@
     },
     {
         "name": "Laura",
-        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git"
+        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git",
+        "docker":"https://hub.docker.com/repository/docker/lauragarrido/curriculum_class_repo/general"
     },
     {
         "name": "Jorge Alonso Cruz",
