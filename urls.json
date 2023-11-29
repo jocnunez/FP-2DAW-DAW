@@ -54,6 +54,11 @@
         "url": "https://github.com/david2o3/FP-2DAW-DAW-Despliegue"
     },
     {
+        "name": "Miguel Vicario Rubio",
+        "url": "https://github.com/miviru/Web-Personal.git",
+        "docker":"https://hub.docker.com/r/miviru/imagenwebpersonal"
+    },
+    {
         "name": "Mohamed El Kasmi El Kaderi",
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
         "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
