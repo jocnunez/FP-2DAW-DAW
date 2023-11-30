@@ -3,52 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario</title>
+    <title>Hola</title>
 </head>
 <body>
-<form action="/names" method="post">
-    <label for="texto">Introduzca un nombre</label>
-    <input id="texto" type="text" name="name" required>
-    <input type="submit" value="Enviar">
-</form>
-<ul id="nameList"></ul>
-
-<script defer type="module">
-    async function getNames() {
-        return await fetch('http://localhost:3000/names').then(r => r.json())
-    }
-
-    async function renderNames() {
-        const names = await getNames()
-        const nameList = document.getElementById('nameList')
-        nameList.innerHTML = ''
-        names.forEach(name => {
-            const li = document.createElement('li')
-            li.innerText = name
-            nameList.appendChild(li)
-        })
-    }
-
-
-    await renderNames()
-
-    const form = document.querySelector('form')
-
-    form.addEventListener('submit', async (e) => {
-        e.preventDefault()
-        const formData = new FormData(form)
-        const name = formData.get('name')
-        await fetch('http://localhost:3000/names', {
-            method: 'POST',
-            body: JSON.stringify({name}),
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        })
-        await renderNames()
-        form.reset()
-    })
-
-</script>
+    <h1>Hola Mundo</h1>
 </body>
 </html>
