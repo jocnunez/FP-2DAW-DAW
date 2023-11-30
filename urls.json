@@ -24,7 +24,10 @@
     {
         "name": "Jaime Medina Méndez",
         "url": "https://github.com/jaimemen897/jaimemen897.github.io.git",
-        "docker": "https://hub.docker.com/layers/jaimemen/personal_page/latest/images/sha256-48e4c69ed8ee14329485d0e5e23edd61f423ce92367430d4417a553c9e09b49c?context=repo"
+        "docker": "https://hub.docker.com/layers/jaimemen/personal_page/latest/images/sha256-48e4c69ed8ee14329485d0e5e23edd61f423ce92367430d4417a553c9e09b49c?context=repo",
+        "web": "https://github.com/jaimemen897/API-Nombres-Jaime.git",
+        "api": "https://github.com/jaimemen897/API-Nombres-Jaime.git",
+        "db": "https://github.com/jaimemen897/API-Nombres-Jaime.git"
     },
     {
         "name": "Eva Gomez",
