@@ -18,8 +18,12 @@
         "docker": "https://hub.docker.com/repository/docker/miguelzanotto/imagen_curriculum/general"
     },
     {
-        "name": "David J",
+        "name": "David Jaraba Pascual",
         "url": "https://github.com/velcas/velcas.github.io.git"
+        "docker": "https://hub.docker.com/repository/docker/davidjaraba/web_david_jaraba/general",
+        "web": "https://github.com/velcas/despliegue-docker-lista",
+        "api": "https://github.com/velcas/despliegue-docker-lista",
+        "db": "https://github.com/velcas/despliegue-docker-lista"
     },
     {
         "name": "Jaime Medina Méndez",
