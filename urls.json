@@ -36,7 +36,10 @@
     {
         "name": "Eva Gomez",
         "url": "https://github.com/evagmezz/evagmezz.github.io.git",
-        "docker": "https://hub.docker.com/layers/evagmezz/evagmezz25/latest/images/sha256-706fdf40df13439ceee4e48094a6e83b5ad1ad4423570256fe95e99f38887621?context=repo"
+        "docker": "https://hub.docker.com/layers/evagmezz/evagmezz25/latest/images/sha256-706fdf40df13439ceee4e48094a6e83b5ad1ad4423570256fe95e99f38887621?context=repo",
+        "web": "https://github.com/evagmezz/despliegeEva.git",
+        "api": "https://github.com/evagmezz/despliegeEva.git",
+        "db": "https://github.com/evagmezz/despliegeEva.git"
     },
     {
         "name": "Joselyn Obando",
