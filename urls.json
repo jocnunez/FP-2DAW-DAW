@@ -68,7 +68,10 @@
     {
         "name": "Ángel Mateo Rodríguez",
         "url": "https://github.com/Madirexland/webdespliegue.git",
-        "docker": "https://hub.docker.com/r/madirex/nginx-static"
+        "docker": "https://hub.docker.com/r/madirex/nginx-static",
+        "web": "https://github.com/Madirex/nodejs_api_tasks",
+        "api": "https://github.com/Madirex/nodejs_api_tasks",
+        "db": "https://github.com/Madirex/nodejs_api_tasks"
     },
     {
         "name": "Daniel Garrido Muros",
