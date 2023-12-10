@@ -15,7 +15,10 @@
     {
         "name": "Miguel Zanotto",
         "url": "https://github.com/MiguelZanottto/Curriculum_MiguelZanotto.git",
-        "docker": "https://hub.docker.com/repository/docker/miguelzanotto/imagen_curriculum/general"
+        "docker": "https://hub.docker.com/repository/docker/miguelzanotto/imagen_curriculum/general",
+        "web" : "https://github.com/MiguelZanottto/Docker-Node-Mongodb.git",
+        "api" : "https://github.com/MiguelZanottto/Docker-Node-Mongodb.git",
+        "db" : "https://github.com/MiguelZanottto/Docker-Node-Mongodb.git"
     },
     {
         "name": "David Jaraba Pascual",
