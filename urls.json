@@ -79,7 +79,10 @@
     {
         "name": "Daniel Garrido Muros",
         "url": "https://github.com/Danniellgm03/DesplieguePract.git",
-        "docker": "https://hub.docker.com/r/daniellgm03/img-nginx"
+        "docker": "https://hub.docker.com/r/daniellgm03/img-nginx",
+        "web": "https://github.com/Danniellgm03/TodoAppDespliegue.git",
+        "api": "https://github.com/Danniellgm03/TodoAppDespliegue.git",
+        "db": "https://github.com/Danniellgm03/TodoAppDespliegue.git"
     },
     {
         "name": "Ruben Fernandez",
