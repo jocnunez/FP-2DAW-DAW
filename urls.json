@@ -90,7 +90,10 @@
     {
         "name": "Mohamed El Kasmi El Kaderi",
         "url": "https://github.com/Mohaek10/MiProyectoWeb",
-        "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen"
+        "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen",
+        "web": "https://github.com/Mohaek10/Despliegue-Api-node",
+        "api": "https://github.com/Mohaek10/Despliegue-Api-node",
+        "db": "https://github.com/Mohaek10/Despliegue-Api-node"
     },
     {
         "name": "Diego Torres",
