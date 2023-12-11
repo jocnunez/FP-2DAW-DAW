@@ -9,7 +9,8 @@
     },
     {
         "name": "Miguel Zanotto",
-        "url": "https://github.com/MiguelZanottto/Curriculum_MiguelZanotto.git"
+        "url": "https://github.com/MiguelZanottto/Curriculum_MiguelZanotto.git",
+        "docker": "https://hub.docker.com/repository/docker/miguelzanotto/imagen_curriculum/general"
     },
     {
         "name": "David J",
@@ -17,15 +18,18 @@
     },
     {
         "name": "Jaime Medina Méndez",
-        "url": "https://github.com/jaimemen897/jaimemen897.github.io.git"
+        "url": "https://github.com/jaimemen897/jaimemen897.github.io.git",
+        "docker": "https://hub.docker.com/layers/jaimemen/personal_page/latest/images/sha256-48e4c69ed8ee14329485d0e5e23edd61f423ce92367430d4417a553c9e09b49c?context=repo"
     },
     {
         "name": "Eva Gomez",
-        "url": "https://github.com/evagmezz/evagmezz.github.io.git"
+        "url": "https://github.com/evagmezz/evagmezz.github.io.git",
+        "docker": "https://hub.docker.com/layers/evagmezz/evagmezz25/latest/images/sha256-706fdf40df13439ceee4e48094a6e83b5ad1ad4423570256fe95e99f38887621?context=repo"
     },
     {
         "name": "Joselyn Obando",
-        "url": "https://github.com/JoselynO/HTML-CURRICULUM-DESPLIEGUE.git"
+        "url": "https://github.com/JoselynO/HTML-CURRICULUM-DESPLIEGUE.git",
+        "docker": "https://hub.docker.com/layers/joselynobando/cv_joselyn/latest/images/sha256-b596f70ed84b016f6a1f54e1f15371f9636a7c1477f8c4ab9f20fe9937ee6772?context=explore"
     },
     {
         "name": "Laura",
