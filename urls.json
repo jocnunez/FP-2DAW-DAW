@@ -124,4 +124,12 @@
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
         "docker": ""
     }
+    {
+        "name": "Luis Ramos",
+        "url": "https://github.com/LuisRamosRobles/PracticasDAW",
+        "docker": "https://hub.docker.com/repository/docker/luisramosrobles/practica2daw/general",
+        "web": "https://github.com/LuisRamosRobles/Practica3",
+        "api": "https://github.com/LuisRamosRobles/Practica3",
+        "db": "https://github.com/LuisRamosRobles/Practica3"
+    }
 ]
