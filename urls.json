@@ -25,7 +25,7 @@
     },
     {
         "name": "David Jaraba Pascual",
-        "url": "https://github.com/velcas/velcas.github.io.git"
+        "url": "https://github.com/velcas/velcas.github.io.git",
         "docker": "https://hub.docker.com/repository/docker/davidjaraba/web_david_jaraba/general",
         "web": "https://github.com/velcas/despliegue-docker-lista",
         "api": "https://github.com/velcas/despliegue-docker-lista",
