@@ -10,7 +10,10 @@
     {
         "name": "Binwei",
         "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git",
-        "docker": "https://hub.docker.com/r/binweiwang/nginx"
+        "docker": "https://hub.docker.com/r/binweiwang/nginx",
+        "web": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "api": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "db": "https://github.com/Binweiwang/Docker-Node-Mongodb"
     },
     {
         "name": "Miguel Zanotto",
