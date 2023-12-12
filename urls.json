@@ -1,10 +1,5 @@
 [
     {
-        "name": "Jaime Salcedo Vallejo",
-        "url": "https://github.com/jaimesalcedo1/MiWebDespliegue",
-        "docker": "https://hub.docker.com/repository/docker/jaimesalcedo1/mi-imagen-web/general"
-    },
-    {
         "name": "Jorge Benavente",
         "url": "https://github.com/NotJorge/notjorge.github.io",
         "docker": "https://hub.docker.com/repository/docker/jorgebenavente/mi-imagen-nginx/general",
@@ -128,5 +123,13 @@
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
         "docker": ""
+    },
+    {
+        "name": "Jaime Salcedo Vallejo",
+        "url": "https://github.com/jaimesalcedo1/MiWebDespliegue",
+        "docker": "https://hub.docker.com/repository/docker/jaimesalcedo1/mi-imagen-web/general",
+        "web": "https://github.com/jaimesalcedo1/PracticaDespliegue3",
+        "api": "https://github.com/jaimesalcedo1/PracticaDespliegue3",
+        "db": "https://github.com/jaimesalcedo1/PracticaDespliegue3"
     }
 ]
