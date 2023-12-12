@@ -123,5 +123,9 @@
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
         "docker": ""
+    },{
+        "name": "Jaime Lozano",
+        "url": "https://github.com/jaime9lozano/Curriculum.git",
+        "docker":"https://github.com/jaime9lozano/DockerDespliegue.git"
     }
 ]
