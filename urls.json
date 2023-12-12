@@ -89,10 +89,10 @@
     },
     {
         "name": "Ruben Fernandez",
-        "url" :"https://github.com/Rubenoide03/FP-2DAW-DAW.git",
-        "docker" :"https://hub.docker.com/repository/docker/rubenoide03/prueba_daw_ruben/general"
-        "web": "https://github.com/Rubenoide03/DockerDespligueRuben.git"
-        "api": "https://github.com/Rubenoide03/DockerDespligueRuben.git"
+        "url": "https://github.com/Rubenoide03/FP-2DAW-DAW.git",
+        "docker": "https://hub.docker.com/repository/docker/rubenoide03/prueba_daw_ruben/general",
+        "web": "https://github.com/Rubenoide03/DockerDespligueRuben.git",
+        "api": "https://github.com/Rubenoide03/DockerDespligueRuben.git",
         "db": "https://github.com/Rubenoide03/DockerDespligueRuben.git"
     },
     {
