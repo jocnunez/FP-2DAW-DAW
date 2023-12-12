@@ -123,5 +123,13 @@
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
         "docker": ""
+    },
+    {
+        "name": "Alejandro Arroba Medina",
+        "url": "https://github.com/AlejandroArroba/Practica-DAW.git",
+        "docker": "https://hub.docker.com/r/alejandroarroba/practica2",
+        "web": "https://github.com/AlejandroArroba/Practica-DAW/tree/69df30b203b747c1cc6f6ab02f57b2d229092d00/Practica%203",
+        "api": "https://github.com/AlejandroArroba/Practica-DAW/tree/69df30b203b747c1cc6f6ab02f57b2d229092d00/Practica%203",
+        "db": "https://github.com/AlejandroArroba/Practica-DAW/tree/69df30b203b747c1cc6f6ab02f57b2d229092d00/Practica%203"
     }
 ]
