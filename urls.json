@@ -122,6 +122,6 @@
     {
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
-        "docker": ""
+        "docker": "https://hub.docker.com/r/jbrandoncl/despliege"
     }
 ]
