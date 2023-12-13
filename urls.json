@@ -7,6 +7,14 @@
         "api": "https://github.com/jorgebenaventee/despliegue-docker-node-nginx-mongo",
         "db": "https://github.com/jorgebenaventee/despliegue-docker-node-nginx-mongo"
     },
+    
+  {
+    "name": "Alexandru Mihai Dorobat",
+    "url": "https://github.com/alexdor00/PracticaDespliegue1",
+    "docker": "https://hub.docker.com/repository/docker/aleex636/imagenesdespliegue/general",
+   
+  },
+
     {
         "name": "Binwei",
         "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git",
