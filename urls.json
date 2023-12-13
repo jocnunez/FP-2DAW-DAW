@@ -100,7 +100,11 @@
     {
         "name": "Miguel Vicario Rubio",
         "url": "https://github.com/miviru/Web-Personal.git",
-        "docker":"https://hub.docker.com/r/miviru/imagenwebpersonal"
+        "docker":"https://hub.docker.com/r/miviru/imagenwebpersonal",
+        "web": "https://github.com/miviru/Api-node-Despligue.git",
+        "api": "https://github.com/miviru/Api-node-Despligue.git",
+        "db": "https://github.com/miviru/Api-node-Despligue.git"
+        
     },
     {
         "name": "Mohamed El Kasmi El Kaderi",
