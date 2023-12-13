@@ -123,5 +123,10 @@
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
         "docker": ""
+    },
+    {
+        "name": "Raul Rodriguez Luna",
+        "url": "https://github.com/raulrz11/ApiDespliegue",
+        "docker": "https://hub.docker.com/repository/docker/raulrz/despliegue_docker_img/general"
     }
 ]
