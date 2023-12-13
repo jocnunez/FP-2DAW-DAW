@@ -55,7 +55,10 @@
     {
         "name": "David Torralba",
         "url": "https://github.com/david2o3/WebPersonal.git",
-        "docker": "https://hub.docker.com/r/david2o3/nginx-web"
+        "docker": "https://hub.docker.com/r/david2o3/nginx-web",
+        "web": "https://github.com/david2o3/Practica3.git",
+        "api": "https://github.com/david2o3/Practica3.git",
+        "db": "https://github.com/david2o3/Practica3.git"
     },
     {
         "name": "Miguel Vicario Rubio",
