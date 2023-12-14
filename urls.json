@@ -72,7 +72,8 @@
     {
         "name": "Jorge Alonso Cruz",
         "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git",
-        "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general"
+        "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general",
+        "api": "https://github.com/Alonso2002-jpg/Docker-Implementation-Node.git"
     },
     {
         "name": "Ángel Mateo Rodríguez",
