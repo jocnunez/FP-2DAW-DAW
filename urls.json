@@ -1,44 +1,131 @@
 [
     {
         "name": "Jorge Benavente",
-        "url": "https://github.com/NotJorge/notjorge.github.io"
+        "url": "https://github.com/NotJorge/notjorge.github.io",
+        "docker": "https://hub.docker.com/repository/docker/jorgebenavente/mi-imagen-nginx/general",
+        "web": "https://github.com/jorgebenaventee/despliegue-docker-node-nginx-mongo",
+        "api": "https://github.com/jorgebenaventee/despliegue-docker-node-nginx-mongo",
+        "db": "https://github.com/jorgebenaventee/despliegue-docker-node-nginx-mongo"
     },
     {
         "name": "Binwei",
-        "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git"
+        "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git",
+        "docker": "https://hub.docker.com/r/binweiwang/nginx",
+        "web": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "api": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "db": "https://github.com/Binweiwang/Docker-Node-Mongodb"
     },
     {
         "name": "Miguel Zanotto",
         "url": "https://github.com/MiguelZanottto/Curriculum_MiguelZanotto.git",
-        "docker": "https://hub.docker.com/repository/docker/miguelzanotto/imagen_curriculum/general"
+        "docker": "https://hub.docker.com/repository/docker/miguelzanotto/imagen_curriculum/general",
+        "web" : "https://github.com/MiguelZanottto/Docker-Node-Mongodb.git",
+        "api" : "https://github.com/MiguelZanottto/Docker-Node-Mongodb.git",
+        "db" : "https://github.com/MiguelZanottto/Docker-Node-Mongodb.git"
     },
     {
-        "name": "David J",
-        "url": "https://github.com/velcas/velcas.github.io.git"
+        "name": "David Jaraba Pascual",
+        "url": "https://github.com/velcas/velcas.github.io.git",
+        "docker": "https://hub.docker.com/repository/docker/davidjaraba/web_david_jaraba/general",
+        "web": "https://github.com/velcas/despliegue-docker-lista",
+        "api": "https://github.com/velcas/despliegue-docker-lista",
+        "db": "https://github.com/velcas/despliegue-docker-lista"
     },
     {
         "name": "Jaime Medina Méndez",
         "url": "https://github.com/jaimemen897/jaimemen897.github.io.git",
-        "docker": "https://hub.docker.com/layers/jaimemen/personal_page/latest/images/sha256-48e4c69ed8ee14329485d0e5e23edd61f423ce92367430d4417a553c9e09b49c?context=repo"
+        "docker": "https://hub.docker.com/layers/jaimemen/personal_page/latest/images/sha256-48e4c69ed8ee14329485d0e5e23edd61f423ce92367430d4417a553c9e09b49c?context=repo",
+        "web": "https://github.com/jaimemen897/API-Nombres-Jaime.git",
+        "api": "https://github.com/jaimemen897/API-Nombres-Jaime.git",
+        "db": "https://github.com/jaimemen897/API-Nombres-Jaime.git"
     },
     {
         "name": "Eva Gomez",
         "url": "https://github.com/evagmezz/evagmezz.github.io.git",
-        "docker": "https://hub.docker.com/layers/evagmezz/evagmezz25/latest/images/sha256-706fdf40df13439ceee4e48094a6e83b5ad1ad4423570256fe95e99f38887621?context=repo"
+        "docker": "https://hub.docker.com/layers/evagmezz/evagmezz25/latest/images/sha256-706fdf40df13439ceee4e48094a6e83b5ad1ad4423570256fe95e99f38887621?context=repo",
+        "web": "https://github.com/evagmezz/despliegeEva.git",
+        "api": "https://github.com/evagmezz/despliegeEva.git",
+        "db": "https://github.com/evagmezz/despliegeEva.git"
     },
     {
         "name": "Joselyn Obando",
         "url": "https://github.com/JoselynO/HTML-CURRICULUM-DESPLIEGUE.git",
-        "docker": "https://hub.docker.com/layers/joselynobando/cv_joselyn/latest/images/sha256-b596f70ed84b016f6a1f54e1f15371f9636a7c1477f8c4ab9f20fe9937ee6772?context=explore"
+        "docker": "https://hub.docker.com/layers/joselynobando/cv_joselyn/latest/images/sha256-b596f70ed84b016f6a1f54e1f15371f9636a7c1477f8c4ab9f20fe9937ee6772?context=explore",
+        "web": "https://github.com/JoselynO/Api-Node-Mongo.git",
+        "api": "https://github.com/JoselynO/Api-Node-Mongo.git",
+        "db": "https://github.com/JoselynO/Api-Node-Mongo.git"
+    },
+    {
+        "name":"Oscar Encabo Nieto",
+        "url":"https://github.com/Diokar017/Ejercicio1Despliegue.git"    
+    },
+    {
+        "name": "Tomas Vaquerin",
+        "url": "https://github.com/TomasVaquerin/DespliegeWeb.git"
+        "docker": "https://hub.docker.com/repository/docker/tomasvj/nginxtomas"
     },
     {
         "name": "Laura",
-        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git"
+        "url": "https://github.com/LauraGarridoArredondo/Curriculum.git",
+        "docker":"https://hub.docker.com/repository/docker/lauragarrido/curriculum_class_repo/general"
     },
     {
         "name": "Jorge Alonso Cruz",
         "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git",
         "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general",
         "api": "https://github.com/Alonso2002-jpg/Docker-Implementation-Node.git"
+    },
+    {
+        "name": "Ángel Mateo Rodríguez",
+        "url": "https://github.com/Madirexland/webdespliegue.git",
+        "docker": "https://hub.docker.com/r/madirex/nginx-static",
+        "web": "https://github.com/Madirex/nodejs_api_tasks",
+        "api": "https://github.com/Madirex/nodejs_api_tasks",
+        "db": "https://github.com/Madirex/nodejs_api_tasks"
+    },
+    {
+        "name": "Daniel Garrido Muros",
+        "url": "https://github.com/Danniellgm03/DesplieguePract.git",
+        "docker": "https://hub.docker.com/r/daniellgm03/img-nginx",
+        "web": "https://github.com/Danniellgm03/TodoAppDespliegue.git",
+        "api": "https://github.com/Danniellgm03/TodoAppDespliegue.git",
+        "db": "https://github.com/Danniellgm03/TodoAppDespliegue.git"
+    },
+    {
+        "name": "Ruben Fernandez",
+        "url" :"https://github.com/Rubenoide03/FP-2DAW-DAW.git",
+        "docker" :"https://hub.docker.com/repository/docker/rubenoide03/prueba_daw_ruben/general"
+    },
+    {
+        "name": "David Torralba",
+        "url": "https://github.com/david2o3/WebPersonal.git",
+        "docker": "https://hub.docker.com/r/david2o3/nginx-web"
+    },
+    {
+        "name": "Miguel Vicario Rubio",
+        "url": "https://github.com/miviru/Web-Personal.git",
+        "docker":"https://hub.docker.com/r/miviru/imagenwebpersonal"
+    },
+    {
+        "name": "Mohamed El Kasmi El Kaderi",
+        "url": "https://github.com/Mohaek10/MiProyectoWeb",
+        "docker": "https://hub.docker.com/r/mohaek10/miprimeraimagen",
+        "web": "https://github.com/Mohaek10/Despliegue-Api-node",
+        "api": "https://github.com/Mohaek10/Despliegue-Api-node",
+        "db": "https://github.com/Mohaek10/Despliegue-Api-node"
+    },
+    {
+        "name": "Diego Torres",
+        "url": "https://github.com/DiegoTorresMijarra/DespliegueCurriculum.git",
+        "docker":"https://github.com/DiegoTorresMijarra/DockerHolaMundo.git"    
+    },
+    {
+        "name": "Kevin Bermudez",
+        "url": "https://github.com/kevinbermudes/Practica1.git"
+    },
+    {
+        "name": "Joe Brandon Carrillo Lozano",
+        "url": "https://github.com/JBrandonCL/DespliegeD.git",
+        "docker": ""
     }
 ]
