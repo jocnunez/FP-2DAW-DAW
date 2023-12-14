@@ -137,7 +137,11 @@
     },
     {
         "name": "Kevin Bermudez",
-        "url": "https://github.com/kevinbermudes/Practica1.git"
+        "url": "https://github.com/kevinbermudes/Practica1.git",
+        "docker": "https://hub.docker.com/r/kevinber783/nginxkevin",
+        "web": "https://github.com/kevinbermudes/Practica3.git",
+        "api": "https://github.com/kevinbermudes/Practica3.git",
+        "db": "https://github.com/kevinbermudes/Practica3.git"
     },
     {
         "name": "Joe Brandon Carrillo Lozano",
