@@ -10,7 +10,10 @@
     {
         "name": "Binwei",
         "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git",
-        "docker": "https://hub.docker.com/r/binweiwang/nginx"
+        "docker": "https://hub.docker.com/r/binweiwang/nginx",
+        "web": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "api": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "db": "https://github.com/Binweiwang/Docker-Node-Mongodb"
     },
     {
         "name": "Miguel Zanotto",
@@ -22,7 +25,7 @@
     },
     {
         "name": "David Jaraba Pascual",
-        "url": "https://github.com/velcas/velcas.github.io.git"
+        "url": "https://github.com/velcas/velcas.github.io.git",
         "docker": "https://hub.docker.com/repository/docker/davidjaraba/web_david_jaraba/general",
         "web": "https://github.com/velcas/despliegue-docker-lista",
         "api": "https://github.com/velcas/despliegue-docker-lista",
