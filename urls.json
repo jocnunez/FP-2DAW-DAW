@@ -7,10 +7,22 @@
         "api": "https://github.com/jorgebenaventee/despliegue-docker-node-nginx-mongo",
         "db": "https://github.com/jorgebenaventee/despliegue-docker-node-nginx-mongo"
     },
+    
+  {
+    "name": "Alexandru Mihai Dorobat",
+    "url": "https://github.com/alexdor00/PracticaDespliegue1",
+    "docker": "https://hub.docker.com/repository/docker/aleex636/imagenesdespliegue/general",
+    "url": "https://github.com/alexdor00/Pr-ctica-3-Despliegue",
+    "docker": "https://hub.docker.com/repository/docker/aleex636/imagenespractica3/general",
+  },
+
     {
         "name": "Binwei",
         "url": "https://github.com/Binweiwang/FP-2DAW-DAW.git",
-        "docker": "https://hub.docker.com/r/binweiwang/nginx"
+        "docker": "https://hub.docker.com/r/binweiwang/nginx",
+        "web": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "api": "https://github.com/Binweiwang/Docker-Node-Mongodb",
+        "db": "https://github.com/Binweiwang/Docker-Node-Mongodb"
     },
     {
         "name": "Miguel Zanotto",
@@ -22,7 +34,7 @@
     },
     {
         "name": "David Jaraba Pascual",
-        "url": "https://github.com/velcas/velcas.github.io.git"
+        "url": "https://github.com/velcas/velcas.github.io.git",
         "docker": "https://hub.docker.com/repository/docker/davidjaraba/web_david_jaraba/general",
         "web": "https://github.com/velcas/despliegue-docker-lista",
         "api": "https://github.com/velcas/despliegue-docker-lista",
@@ -69,7 +81,8 @@
     {
         "name": "Jorge Alonso Cruz",
         "url": "https://github.com/Alonso2002-jpg/CurriculumHTMLRepo.git",
-        "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general"
+        "docker": "https://hub.docker.com/repository/docker/joralonso/repodeweb/general",
+        "api": "https://github.com/Alonso2002-jpg/Docker-Implementation-Node.git"
     },
     {
         "name": "Ángel Mateo Rodríguez",
@@ -89,8 +102,11 @@
     },
     {
         "name": "Ruben Fernandez",
-        "url" :"https://github.com/Rubenoide03/FP-2DAW-DAW.git",
-        "docker" :"https://hub.docker.com/repository/docker/rubenoide03/prueba_daw_ruben/general"
+        "url": "https://github.com/Rubenoide03/FP-2DAW-DAW.git",
+        "docker": "https://hub.docker.com/repository/docker/rubenoide03/prueba_daw_ruben/general",
+        "web": "https://github.com/Rubenoide03/DockerDespligueRuben.git",
+        "api": "https://github.com/Rubenoide03/DockerDespligueRuben.git",
+        "db": "https://github.com/Rubenoide03/DockerDespligueRuben.git"
     },
     {
         "name": "David Torralba",
@@ -126,5 +142,30 @@
         "web": "https://github.com/JBrandonCL/Node_mongDespliege.git",
         "api": "https://github.com/JBrandonCL/Node_mongDespliege.git",
         "db": "https://github.com/JBrandonCL/Node_mongDespliege.git"
+    },{
+        "name": "Jaime Lozano",
+        "url": "https://github.com/jaime9lozano/Curriculum.git",
+        "docker":"https://github.com/jaime9lozano/DockerDespliegue.git"
+    },
+    {
+        "name": "Raul Rodriguez Luna",
+        "url": "https://github.com/raulrz11/ApiDespliegue",
+        "docker": "https://hub.docker.com/repository/docker/raulrz/despliegue_docker_img/general"
+    },
+    {
+        "name": "Jaime Salcedo Vallejo",
+        "url": "https://github.com/jaimesalcedo1/MiWebDespliegue",
+        "docker": "https://hub.docker.com/repository/docker/jaimesalcedo1/mi-imagen-web/general",
+        "web": "https://github.com/jaimesalcedo1/PracticaDespliegue3",
+        "api": "https://github.com/jaimesalcedo1/PracticaDespliegue3",
+        "db": "https://github.com/jaimesalcedo1/PracticaDespliegue3"
+    },
+    {
+        "name": "Luis Ramos",
+        "url": "https://github.com/LuisRamosRobles/PracticasDAW",
+        "docker": "https://hub.docker.com/repository/docker/luisramosrobles/practica2daw/general",
+        "web": "https://github.com/LuisRamosRobles/Practica3",
+        "api": "https://github.com/LuisRamosRobles/Practica3",
+        "db": "https://github.com/LuisRamosRobles/Practica3"
     }
 ]
