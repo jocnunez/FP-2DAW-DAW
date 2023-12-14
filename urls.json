@@ -138,7 +138,10 @@
     {
         "name": "Joe Brandon Carrillo Lozano",
         "url": "https://github.com/JBrandonCL/DespliegeD.git",
-        "docker": ""
+        "docker": "https://hub.docker.com/r/jbrandoncl/despliege",
+        "web": "https://github.com/JBrandonCL/Node_mongDespliege.git",
+        "api": "https://github.com/JBrandonCL/Node_mongDespliege.git",
+        "db": "https://github.com/JBrandonCL/Node_mongDespliege.git"
     },{
         "name": "Jaime Lozano",
         "url": "https://github.com/jaime9lozano/Curriculum.git",
