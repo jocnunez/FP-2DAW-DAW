@@ -10,6 +10,8 @@
     
   {
     "name": "Alexandru Mihai Dorobat",
+    "url": "https://github.com/alexdor00/PracticaDespliegue1",
+    "docker": "https://hub.docker.com/repository/docker/aleex636/imagenesdespliegue/general",
     "url": "https://github.com/alexdor00/Pr-ctica-3-Despliegue",
     "docker": "https://hub.docker.com/repository/docker/aleex636/imagenespractica3/general",
   },
